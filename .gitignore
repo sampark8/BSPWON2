@@ -1,29 +1,3 @@
-*.axf
-*.swp
-*.htm
-*.Inp
-*.map
-*.tra
-*.dep
-*._2i
-*.l2p
-*.__i
-*.fed
-*.crf
-*.d
-*.o
-*.lst
-*.lnp
-*.bak
+# BSPWon_nRF52
 
-*.ini
-*.iex
-*.sct
-*.uvgui.*
-*.uvguix.*
-*.tmp
-**/arm/JLinkLog.txt
-**/_viminfo
-**/_vimtags
-_build/
-RTE/
+output/
